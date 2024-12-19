@@ -1,11 +1,11 @@
 {
   "RAGram_update": [
     {
- "version":"11.2.8",
+ "version":"11.2.3",
  "title":"Update Disponible",
  "description":"RAGram Oficial V9.65
 
-Base: 11.2.8
+Base: 11.2.3
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
