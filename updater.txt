@@ -1,7 +1,7 @@
 {
   "RAGram_update": [
     {
- "version":"9.62",
+ "version":"11.2.8",
  "title":"Update Disponible",
  "description":"RAGram Oficial V9.65
 
