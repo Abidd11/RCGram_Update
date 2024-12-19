@@ -1,11 +1,11 @@
 {
-  "fnmods_update": [
+  "RAGram_update": [
     {
  "version":"9.62",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "description":"RAGram Oficial V9.65
 
-Base: 2.23 1.76
+Base: 11.2.8
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
